@@ -6,9 +6,15 @@ The `bogosearch` package implements a bogo approach to searching for a target va
 
 ## Performance
 
+Its bad
+
 ![Alt text](search_growth.png?raw=true "Title")
 
 ## Usage
+
+```
+go get github.com/rshcoding/bogosearch
+```
 
 Below is a simple example demonstrating how to use the Bogosearch:
 
